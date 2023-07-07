@@ -1,0 +1,10 @@
+.hero1{
+    border: 20px;
+    background-color: blueviolet;
+    background-size: cover;
+    font-size: larger;
+    padding: 0;
+    border-radius: 30px;        
+    border-style: solid;
+
+}
